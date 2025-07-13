@@ -30,5 +30,21 @@ Convert any currency to any other using real-time exchange rates from the [Curre
 
 ---
 
-## 📁 Project Structure
+
+## 🔧 How It Works
+
+- User inputs an amount
+- Chooses "From" and "To" currencies
+- Clicks the **Convert** button
+- JavaScript fetches the latest exchange rate from the Currency API
+- Displays the converted amount instantly
+
+---
+
+## 📌 To Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/zainab-siddiq/Currency-converter.git
+
 
