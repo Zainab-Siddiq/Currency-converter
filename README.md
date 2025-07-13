@@ -46,5 +46,17 @@ Convert any currency to any other using real-time exchange rates from the [Curre
 1. Clone the repo:
    ```bash
    git clone https://github.com/zainab-siddiq/Currency-converter.git
+2. Open index.html in your browser — no server needed!
 
+## 🙋‍♀️ Author
+Zainab Siddiq
+💼 Frontend Developer | 💻 Passionate Coder
+📍 GitHub Profile
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 💬 Feedback or Contributions?
+Feel free to open issues or submit pull requests.
+All suggestions and improvements are welcome! 🤝
 
